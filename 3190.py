@@ -2,6 +2,7 @@ from collections import deque
 #1453 ~ #1659
 #column, row
 """
+  https://www.acmicpc.net/problem/3190
  'Dummy' 라는 도스게임이 있다. 이 게임에는 뱀이 나와서 기어다니는데, 사과를 먹으면 뱀 길이가 늘어난다. 
  뱀이 이리저리 기어다니다가 벽 또는 자기자신의 몸과 부딪히면 게임이 끝난다.
 
